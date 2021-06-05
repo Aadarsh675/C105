@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(to top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    color: navy;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+#objects{
+    color:darkviolet;
+    font-size: 22px;
+}
+
+hr{
+    width: 400px;
+}
+
+#header{
+    font-size: 40px;
+    color: hotpink;
+    width: 50%;
+    border-radius: 100px;
+}
+
+#camera, #snapshot{
+    border: 2px solid navy;
+    width: 300px;
+    height: 300px;
+}
+
+.btn-primary, .btn-success, label{
+    font-size: 22px;
+}
+
+span{
+    color:royalblue;
+    font-size: 25px;
+}
